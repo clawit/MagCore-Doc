@@ -1,0 +1,34 @@
+{
+  "config": {
+    "title": "Mag Core Doc",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "概述/介绍.mdx",
+      "value": {
+        "id": "087c690f18a3d3faa4d6677fe17e8623",
+        "filepath": "概述/介绍.mdx",
+        "link": "",
+        "slug": "",
+        "route": "/",
+        "name": "介绍",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "介绍",
+            "depth": 1,
+            "value": "介绍"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
